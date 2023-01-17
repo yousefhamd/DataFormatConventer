@@ -1,0 +1,67 @@
+[
+  
+  {
+    "ID": "1",
+    "Name": "Ahmed",
+    "Address": "Haram",
+    "Tel": "01025632144",
+    "Date": "2/2/2000 12:00:00 AM",
+    "Salary": "1400"
+  },
+  {
+    "ID": "3",
+    "Name": "Hassan",
+    "Address": "Faysal",
+    "Tel": "NULL",
+    "Date": "8/30/2022 8:12:44 PM",
+    "Salary": "0"
+  },
+  {
+    "ID": "4",
+    "Name": "Menna",
+    "Address": "October",
+    "Tel": "0114563211",
+    "Date": "2/8/1999 12:00:00 AM",
+    "Salary": "2000"
+  },
+  {
+    "ID": "5",
+    "Name": "Amgad",
+    "Address": "Moneeb",
+    "Tel": "0122369887",
+    "Date": "5/8/1999 12:00:00 AM",
+    "Salary": "0"
+  },
+  {
+    "ID": "6",
+    "Name": "Shawky",
+    "Address": "NULL",
+    "Tel": "0122369888",
+    "Date": "7/8/1999 12:00:00 AM",
+    "Salary": "200"
+  },
+  {
+    "ID": "7",
+    "Name": "Sabri",
+    "Address": "Dokki",
+    "Tel": "0122369889",
+    "Date": "8/30/2022 8:12:44 PM",
+    "Salary": "8000"
+  },
+  {
+    "ID": "8",
+    "Name": "Reda",
+    "Address": "Abasiri",
+    "Tel": "0122369890",
+    "Date": "9/9/2009 12:00:00 AM",
+    "Salary": "4000"
+  },
+  {
+    "ID": "9",
+    "Name": "NULL",
+    "Address": "NULL",
+    "Tel": "NULL",
+    "Date": "8/30/2022 8:12:44 PM",
+    "Salary": "0"
+  }
+]
